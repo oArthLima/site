@@ -1,0 +1,27 @@
+body {
+    color: rgb(128, 128, 128);font-family: tahoma; font-size: large; background: black;
+}
+
+p {
+    font-weight: bold; font-size: larger
+}
+
+a {
+    text-decoration: none;
+}
+
+#High0 {
+    background-color: rgb(128, 128, 128); color: #000; padding: 5px;
+}
+
+#High1 {
+    background-color: rgb(0, 125, 255); color: #fff; padding: 5px;
+}
+
+#High2 {
+    background-color: rgb(0, 255, 125); color: #000; padding: 5px;
+}
+
+#title {
+    text-transform: uppercase; text-align: center; background: white;
+}
