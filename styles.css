@@ -3,25 +3,30 @@ body {
 }
 
 p {
-    font-weight: bold; font-size: larger
+    font-size: larger
 }
 
 a {
     text-decoration: none;
 }
 
-#High0 {
+
+#high0 {
     background-color: rgb(128, 128, 128); color: #000; padding: 5px;
 }
 
-#High1 {
+#high1 {
     background-color: rgb(0, 105, 255); color: #fff; padding: 5px;
 }
 
-#High2 {
+#high2 {
     background-color: rgb(0, 255, 105); color: #000; padding: 5px;
 }
 
 #title {
     text-transform: uppercase; text-align: center; background: white;
+}
+
+a:hover {
+    font-weight: bolder;
 }
